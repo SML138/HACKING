@@ -1,0 +1,2 @@
+http://webvyz.com/wp-login.php:admin :admin  [WordPress]
+http://www.lcx520.com/wp-login.php:admin:admin  [WordPress]
